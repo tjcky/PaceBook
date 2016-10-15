@@ -1,0 +1,10 @@
+spring: 
+    datasource:
+        url: jdbc:mysql://10.113.182.210:3306/pacebook
+        username: tjcky
+        password: qewr1324
+        driver-class-name: com.mysql.jdbc.Driver
+    jpa:
+        database: mysql
+        show-sql: true
+  
